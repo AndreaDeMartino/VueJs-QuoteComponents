@@ -1,6 +1,6 @@
-# vue-cli
+# Vue-Cli v2
 
-> A Vue.js project
+> A quote manager for testing Vue components with Vue Cli v2 webpack-simple
 
 ## Build Setup
 
